@@ -17,7 +17,7 @@ public class Book {
 
     public void hienThi() {
         System.out.println("Ma sach: " + maSach);
-        System.out.println("Ten sach: " + tenSach);
+        System.out.println("Ten sach [Ban Main]: " + tenSach);
         System.out.println("Tac gia: " + tacGia);
     }
 }
